@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Allen",
+      "authorEmail": "703203266@qq.com",
+      "authorUrl": "https://github.com/allenrobot"
+    }
+  }
+}

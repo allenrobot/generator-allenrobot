@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="<%=javaCompanyPackageName%>.mapper.<%=javaPackageName%>.<%=className%>Mapper">
+
+	<select id="query" resultType="java.util.Map">
+		<![CDATA[ 
+			
+		]]>
+	</select>
+
+	<update id="add" >
+		<![CDATA[ 
+			
+		]]>
+	</update>
+
+	<update id="update">
+		<![CDATA[ 
+			
+		]]>
+	</update>
+
+	<update id="delete">
+		<![CDATA[ 
+			
+		]]>
+	</update>
+</mapper>
